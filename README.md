@@ -6,7 +6,7 @@ This component helps to set default list view in salesforce communities
 
 
 
-```sfdx force:mdapi:deploy -d  ./mdapi/v1 -u bushan1891@gmail.com                                                        
+sfdx force:mdapi:deploy -d  ./mdapi/v1 -u bushan1891@gmail.com                                                        
 
 === Status
 Status:  Queued
